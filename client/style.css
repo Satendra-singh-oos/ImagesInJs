@@ -10,10 +10,14 @@
  
 }
 .img{
-    
     margin: 2px;
 }
 
+#username-display{
+    font-size: 50px;
+    font-family: sans-serif;
+    color: black;
+}
 #full{
     margin-top: 20px;
     font-size: 50px;
